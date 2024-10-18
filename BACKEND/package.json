@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "tailwindproject",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "type":"module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAGE-TRIGGER/TAILWIND.git"
+  },
+  "author": "Rishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAGE-TRIGGER/TAILWIND/issues"
+  },
+  "homepage": "https://github.com/SAGE-TRIGGER/TAILWIND#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
